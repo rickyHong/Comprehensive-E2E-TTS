@@ -102,7 +102,7 @@ Useful options:
 
 Use
 ```
-tensorboard --logdir output/log
+tensorboard --host xx.xx.xx.xx --logdir output/log
 ```
 
 to serve TensorBoard on your localhost.
