@@ -19,3 +19,7 @@ torch == 1.7.0
 tqdm==4.46.1
 unidecode == 1.1.1
 pillow == 8.3.2
+torchaudio == 0.10.1
+praat-parselmouth == 0.4.1
+quote == 1.0
+pycwt == 0.3.0
